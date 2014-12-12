@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.on_use(function(api){
-
+  api.versionsFrom('METEOR@1.0.1');
   api.use('jquery', 'client');
 
   api.add_files([
