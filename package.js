@@ -1,8 +1,8 @@
 Package.describe({
-  summary: "Meteor implementation of the glDatePicker plugin for jQuery."
-  version: "1.0.0"
-  name: "oaf:gldatepicker"
-  git: "https://github.com/oafmedium/glDatePicker"
+  summary: "Meteor implementation of the glDatePicker plugin for jQuery.",
+  version: "1.0.0",
+  name: "oaf:gldatepicker",
+  git: "https://github.com/oafmedium/glDatePicker",
 });
 
 Package.on_use(function(api){
